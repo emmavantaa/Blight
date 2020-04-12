@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Bullet
+  - CameraFollower
+  - Pickup
+  - AmmoPack
+  - Gun
+  - Door
+  - DoorToBreak
+  - UI
+  - Knife
+  - Wall
+  - Treasure
+  - EnemyBullet
+  - PickupGrenade
+  - Bomb
+  - Health
+  - Bullet2
+  - Gun2
+  - NewGun
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Gun
+  - Bullet
+  - Enemy
+  - Teleporter
+  - Ontop
+  - Boom
+  - PostProcessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ontop
+    uniqueID: 2588754541
+    locked: 0
+  - name: Doors
+    uniqueID: 2392555227
+    locked: 0
+  - name: Player
+    uniqueID: 79015245
+    locked: 0
