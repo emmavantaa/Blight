@@ -1,6 +1,5 @@
 # Blight
-2D shooter
-Made in 2018, one of my bigger first coding projects I did.
+2D shooter <br>
 It was originally suppose to become a doughnut collecting game but ended up making it a post-apocalyptic game.
 
 I worked on this project alone and it was one of my first bigger project I worked on when I started to focus on coding. I learned a lot along the way and got a better understanding on how scripts work.
