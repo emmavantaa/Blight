@@ -17,7 +17,7 @@ Game Images <br>
 Early Images
 <br>
 
-Player <br>
+Player from early stage to final <br>
 <img src="Images/Hahmot.png" width="350">
 
 Enemy <br>
